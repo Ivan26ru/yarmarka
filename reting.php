@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<!-- Header -->7
+<!-- Header -->
 <header class="header" id="header">
     <div class="container container-head">
         <nav class="head">
