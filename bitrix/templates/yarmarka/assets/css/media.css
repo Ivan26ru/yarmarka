@@ -1,0 +1,423 @@
+/*==========  Desktop First Method  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1800px) {
+    .wrap {
+        width: 1400px;
+    }
+
+    header .header_search input[type='search'] {
+        width: 400px;
+    }
+
+    .cc_right {
+        display: none;
+    }
+
+    .wrmt_ul_li {
+        display: inline-table;
+        /* width: 7%; */
+    }
+
+    .sidebar_right {
+        /* display: none; */
+    }
+
+    .wrap_left {
+        /* margin-top:157px; */
+    }
+
+    .wrmt_ul {
+        padding: 0 12px;
+        /* max-width: 100%; */
+    }
+
+    .wrap_right {
+        max-width: calc(100% - 269px);
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 1400px) {
+    .wrap {
+        width: 1100px;
+    }
+
+    .bn_item {
+        width: 100%;
+    }
+
+    .on_comments {
+        margin-left: 0;
+    }
+
+    .wrmt_ul_li_a_add,
+    .grid-sidedar_right. .wrmt_ul_li_title,
+    .wrmt_ul_li_value,
+    .wrmt_ul_li_a_add,
+    .other,
+    .on_wrap,
+    .h_btn_search {
+        display: none;
+    }
+
+    .on2w_item {
+        width: 100%;
+    }
+
+    .header_center {
+        margin-left: 0;
+    }
+
+    header .wrap-inner {
+        justify-content: space-between;
+    }
+
+    header .header_search input[type='search'] {
+        width: 180px;
+    }
+
+    .wrmt_container_icon {
+        /* height: 38px; */
+    }
+
+    .wrmt_ul_li_title {
+        font-size: 11px;
+    }
+
+    .wrmt_ul_li_a {
+        /* height: 60px; */
+    }
+
+    .wrmt_ul_li {
+        height: auto;
+        padding-left: 0;
+    }
+
+    .wrap_left {
+        padding-top: 14px;
+        padding-left: 17px;
+    }
+
+    .wrmt_ul {
+        padding-right: 10px;
+        /*  padding-left:10px; */
+        padding-left: 10px;
+        justify-content: space-between;
+        /* display: flex; */
+    }
+
+    .wrap_right {
+        max-width: calc(100% - 264px);
+    }
+
+    .block_news {
+        padding: 19px 15px 15px 9px;
+    }
+
+    .bn_item {
+        padding: 6px 10px 18px;
+    }
+
+    .bni_content {
+        margin-top: 10px;
+        margin-left: 14px;
+    }
+
+    .bni_title {
+        line-height: 1.1;
+    }
+
+    .wr_content {
+        margin-top: 9px;
+    }
+
+    .wrap_right {
+        margin-left: 6px;
+    }
+
+    footer .wrap-inner {
+        margin-right: 10px;
+    }
+
+    .gil2_wrap {
+        flex-wrap: wrap;
+    }
+
+    .smb_item,
+    .bb_item {
+        width: 100%;
+    }
+
+    /*Disable Animation on Mobile Devices*/
+    .animated {
+        -webkit-transition-property: none !important;
+        -moz-transition-property: none !important;
+        -ms-transition-property: none !important;
+        /*CSS transitions*/
+        -o-transition-property: none !important;
+        transition-property: none !important;
+        -webkit-transform: none !important;
+        -moz-transform: none !important;
+        -ms-transform: none !important;
+        /*CSS transforms*/
+        -o-transform: none !important;
+        transform: none !important;
+        /*CSS animations*/
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -ms-animation: none !important;
+        -o-animation: none !important;
+        animation: none !important;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .wrap {
+        width: 720px;
+        /* outline: 1px solid red; */
+    }
+
+    .h_btn_search,
+    .header_icons {
+        display: none;
+    }
+
+    .fm_ul {
+        /* flex-wrap:nowrap; */
+    }
+
+    footer .wrap-inner {
+        margin-left: 10px;
+    }
+
+    .bli_left_wrap_img,
+    .smbi_container_img,
+    .bbi_container_img,
+    .bni_container_img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .bnpc_left {
+        width: 150px;
+    }
+
+    .bnp_container_img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .smbi_left .gil2_left_add_new {
+        padding: 7px 10px;
+    }
+
+    .bnp_content .bni_soc_info span {
+        margin-right: 10px;
+    }
+
+    .othersw_container .onw_item {
+        width: calc(50% - 5px);
+        margin-bottom: 10px;
+        padding: 8px;
+        align-items: center;
+    }
+
+    .pli {
+        height: 40px;
+    }
+
+    .button_up {
+        font-family: 'Roboto';
+        font-size: 0px;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        left: unset;
+        display: none;
+        padding: 15px 19px;
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 20px;
+        background-color: #5f81a7;
+    }
+
+    .button_up:before {
+        font-family: 'FontAwesome';
+        position: absolute;
+        font-size: 20px;
+        top: 4px;
+        left: calc(50% - 6px);
+        content: '\f106';
+    }
+
+    .filter_music label {
+        width: 230px;
+        margin-bottom: 8px;
+        align-items: center;
+        /* justify-content: left; */
+    }
+
+    .bli_left {
+        width: 100px;
+    }
+
+    .btn_news {
+        background-image: none;
+        padding-left: 17px;
+        ;
+    }
+
+    .bli_bottom {
+        flex-wrap: wrap;
+    }
+
+    .bli_bottom .text_14_blue_light {
+        margin-top: 15px;
+    }
+
+    .table_rajting tr th:nth-child(1),
+    .table_rajting tr td:nth-child(1) {
+        width: 10%;
+    }
+
+    .table_rajting tr th:nth-child(3),
+    .table_rajting tr td:nth-child(3),
+    .table_rajting tr th:nth-child(6),
+    .table_rajting tr td:nth-child(6),
+    .table_rajting tr th:nth-child(5),
+    .table_rajting tr td:nth-child(5) {
+        display: none;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 720px) {
+    .wrap {
+        width: 100%;
+        /* outline: 1px solid red; */
+    }
+
+    .header_logo_text,
+    .header_center,
+    .gp_1,
+    .wr_menu_top {
+        display: none;
+    }
+
+    .bni_content {
+        height: auto;
+    }
+
+    .fm_ul {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        max-height: none;
+    }
+
+    .block_rajting,
+    .bmpg_item,
+    .block_like,
+    .block_music_post,
+    .bl_item,
+    .others_wrap,
+    .onc_wrap,
+    .on_container,
+    .bb_item,
+    .smb_item,
+    .bn_item,
+    .on2_wrap,
+    .block_news {
+        padding: 10px 10px 10px 10px;
+    }
+
+    .bli_right,
+    .bbi_info,
+    .smbi_info {
+        margin-left: 10px;
+    }
+
+    .gir_ul {
+        flex-wrap: wrap
+    }
+
+    .othersw_container .onw_item {
+        width: 100%;
+    }
+
+    .othersw_container .onw_item:last-child {
+        margin-bottom: 0;
+    }
+
+    .filter_ads_line_1 {
+        flex-direction: column;
+    }
+
+    .gi_line_2 {
+        flex-direction: column;
+    }
+
+    .filter_ads_line_1 label:not(:first-child),
+    .gil2_right {
+        margin-left: 0;
+    }
+
+    .filter_ads_line_1 label {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .filter_music {
+        margin-top: 10px;
+    }
+
+    .bmpg_container_img {
+        margin: auto;
+    }
+
+    .gb_ul {
+        margin-top: 0;
+    }
+
+
+    .table_rajting tr th:nth-child(8),
+    .table_rajting tr td:nth-child(8),
+    .table_rajting tr th:nth-child(7),
+    .table_rajting tr td:nth-child(7) {
+        display: none;
+    }
+
+    .bli_content p {
+        word-break: break-all;
+    }
+
+    .bnp_content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .grid_index .gp_2 {
+        display: none;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {}
+
+/*==========  Mobile First Method  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {}
