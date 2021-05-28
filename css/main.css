@@ -911,7 +911,7 @@ img {
 .user__list p {
 	font: 400 16px 'Roboto-Regular', sans-serif;
 	line-height: 19px;
-	margin-bottom: 5px;
+	margin-bottom: 6px;
 }
 
 .user__list span {
@@ -1307,7 +1307,24 @@ img {
 	height: 83px;
 }
 
-/*--------------------------------------------Footer----------------------------*/
+.rating h3 {
+	font: 700 18px 'Roboto-Blod', sans-serif;
+}
+
+.rating h3 span {
+	margin-left: 10px;
+}
+
+.rating-side .rating__item {
+	border-top: none;
+	border-bottom: 1px solid #E7E8EC;
+}
+
+.rating-side .rating__item:last-child {
+	border-bottom: none;
+}
+
+	/*--------------------------------------------Footer----------------------------*/
 
 .footer {
 	background-color: #37475E;
