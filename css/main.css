@@ -610,9 +610,9 @@ img {
 }
 
 .home__search .btn {
-	width: 141px;
+	width: 166px;
 	height: 100%;
-	margin-left: 35px;
+	margin-left: 10px;
 }
 
 .home__search select {
@@ -647,6 +647,12 @@ img {
 	border-radius: 4px;
 	color: #718492;
 	padding: 16px 16px 15px 14px;
+}
+
+.offer__more {
+	display: inline-block;
+	color: #3AACFF;
+	font-size: 12px;
 }
 
 .offer__name {
@@ -866,8 +872,113 @@ img {
 	justify-content: space-between;
 }
 
+.main {
+	border-radius: 4px;
+	padding: 15px 0;
+	background-color: #fff;
+	box-shadow: 0px 0px 0px 1px #E7E8EC, 0px 1px 1px #DCE1E6;
+}
+
+.offer-main {
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: transparent;
+}
+
+.offer-main .offer__part:last-child {
+	margin-bottom: 0;
+}
+
+.offer-main:last-child .offer__part:first-child:after{
+	display: none;
+}
+
+.offer-main .offer__up {
+	margin-bottom: 5px;
+}
+
+.offer-main .offer__up {
+	justify-content: flex-start;
+}
+
+.offer-main .offer__more {
+	margin-left: 15px;
+}
+
+.offer-main:not(:first-child) {
+	border-radius: 0;
+}
+
+.main .recall {
+	box-shadow: none;
+	padding-top: 0;
+	padding-bottom: 22px;
+}
+
+.recall__more {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.recall__more a {
+	display: inline-block;
+	color: #3AACFF;
+	font-size: 12px;
+	margin-left: 15px;
+}
+
+/*----------------------------------------------Reward--------------------------------------*/
+
+.reward {
+	padding: 0 15px 16px;
+	color: #37475E;
+}
+
+.reward__up {
+	display: flex;
+	align-items: center;
+	margin-bottom: 6px;
+}
+
+.reward__up h3 {
+	font: 700 18px 'Roboto-Bold', sans-serif;
+}
+
+.reward__up a {
+	display: inline-block;
+	color: #3AACFF;
+	font-size: 12px;
+	margin-left: 15px;
+}
+
+.reward__cont {
+	display: flex;
+	justify-content: space-between;
+}
+
+.reward__item {
+	width: 84px;
+	height: 83px;
+	background: #F6F7F8;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 10px;
+	position: relative;
+}
+
+.reward__item img {
+	height: 65px;
+}
+
 
 /*-------------------------------------------User----------------------------*/
+
+.main .user {
+	padding: 0 15px 20px;
+}
 
 .user {
 	display: flex;
