@@ -191,7 +191,7 @@
                     <button class="btn">Найти</button>
                 </form>
             </div>
-            <div class="main">
+            <div class="main main-side">
                 <div class="user">
                     <div class="user__contant">
                         <div class="user__photo">

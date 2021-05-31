@@ -915,6 +915,10 @@ img {
 	padding-bottom: 22px;
 }
 
+.main-side .recall {
+	padding-bottom: 0;
+}
+
 .recall__more {
 	display: flex;
 	align-items: center;
@@ -971,6 +975,11 @@ img {
 
 .reward__item img {
 	height: 65px;
+}
+
+.main .recall__item:nth-child(-n+4) {
+	border-bottom: 1px solid #E7E8EC;
+	margin-bottom: 10px;
 }
 
 
