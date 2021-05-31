@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Yarmarka.pro</title>
 	<!-- Css style -->
-	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <!-- Header -->
@@ -41,10 +41,10 @@
 						Константин
 					</p>
 					<div class="head__photo">
-						<img src="/img/person.png" alt=""/>
+						<img src="img/person.png" alt=""/>
 					</div>
 					<span class="head__more">
-						<img src="/img/head-more.png" alt="">
+						<img src="img/head-more.png" alt="">
 					</span>
 				</div>
 			</nav>
@@ -54,7 +54,7 @@
 	<section class="contant" id="contant">
 		<div class="container">
 			<nav class="menu">
-				<img src="/img/menu-person.png" alt="" class="menu__photo"/>
+				<img src="img/menu-person.png" alt="" class="menu__photo"/>
 				<div class="menu__info">
 					<span class="level">1lvl</span>
 					<span class="bal">1500/15000</span>
@@ -65,41 +65,41 @@
 				</a>
 				<ul class="menu__nav">
 					<li>
-						<img src="/img/icon-1.svg" alt=""/>
+						<img src="img/icon-1.svg" alt=""/>
 						<a href="#">Моя страница</a>
 					</li>
 					<li>
-						<img src="/img/icon-2.svg" alt=""/>
+						<img src="img/icon-2.svg" alt=""/>
 						<a href="#">Мои сообщения</a>
 						<span class="menu__quantity">1</span>
 					</li>
 					<li>
-						<img src="/img/icon-3.svg" alt=""/>
+						<img src="img/icon-3.svg" alt=""/>
 						<a href="#">Мои отзывы</a>
 						<span class="menu__quantity">12</span>
 					</li>
 					<li>
-						<img src="/img/icon-4.svg" alt=""/>
+						<img src="img/icon-4.svg" alt=""/>
 						<a href="#">Мои объявления</a>
 					</li>
 				</ul>
 				<ul class="menu__nav">
 					<li>
-						<img src="/img/icon-5.svg" alt=""/>
+						<img src="img/icon-5.svg" alt=""/>
 						<a href="#">Избранное</a>
 					</li>
 					<li>
-						<img src="/img/icon-6.svg" alt=""/>
+						<img src="img/icon-6.svg" alt=""/>
 						<a href="#">История</a>
 					</li>
 				</ul>
 				<ul class="menu__nav">
 					<li>
-						<img src="/img/icon-7.svg" alt=""/>
+						<img src="img/icon-7.svg" alt=""/>
 						<a href="#">Настройки</a>
 					</li>
 					<li>
-						<img src="/img/icon-8.svg" alt=""/>
+						<img src="img/icon-8.svg" alt=""/>
 						<a href="#">Выйти</a>
 					</li>
 				</ul>
@@ -108,31 +108,31 @@
 						Мои награды
 					</p>
 					<div class="menu__icon">
-						<img src="/img/menu-1.svg" alt=""/>
+						<img src="img/menu-1.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-2.svg" alt=""/>
+						<img src="img/menu-2.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-3.svg" alt=""/>
+						<img src="img/menu-3.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-4.svg" alt=""/>
+						<img src="img/menu-4.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-5.svg" alt=""/>
+						<img src="img/menu-5.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-6.svg" alt=""/>
+						<img src="img/menu-6.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-7.svg" alt=""/>
+						<img src="img/menu-7.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-8.svg" alt=""/>
+						<img src="img/menu-8.svg" alt=""/>
 					</div>
 					<div class="menu__icon">
-						<img src="/img/menu-9.svg" alt=""/>
+						<img src="img/menu-9.svg" alt=""/>
 					</div>
 					<a href="#" class="menu__more">
 						Посмотреть все
@@ -143,27 +143,27 @@
 				<div class="home__filter">
 					<button class="home__btn">
 						<p>Вакансии</p>
-						<img src="/img/home-1.svg" alt=""/>
+						<img src="img/home-1.svg" alt=""/>
 					</button>
 					<button class="home__btn">
 						<p>Резюме</p>
-						<img src="/img/home-2.svg" alt=""/>
+						<img src="img/home-2.svg" alt=""/>
 					</button>
 					<button class="home__btn">
 						<p>Барахолка</p>
-						<img src="/img/home-3.svg" alt=""/>
+						<img src="img/home-3.svg" alt=""/>
 					</button>
 					<button class="home__btn">
 						<p>Услуги</p>
-						<img src="/img/home-4.svg" alt=""/>
+						<img src="img/home-4.svg" alt=""/>
 					</button>
 					<button class="home__btn">
 						<p>Аренда</p>
-						<img src="/img/home-5.svg" alt=""/>
+						<img src="img/home-5.svg" alt=""/>
 					</button>
 					<button class="home__btn">
 						<p>Аренда</p>
-						<img src="/img/home-6.svg" alt=""/>
+						<img src="img/home-6.svg" alt=""/>
 					</button>
 					<div class="blurb"></div>
 				</div>	
@@ -178,7 +178,7 @@
                             </select>
 							<input type="text" placeholder="Найти..." class="search">
 							<button class="search-btn">
-								<img src="/img/vector.svg" alt=""/>
+								<img src="img/vector.svg" alt=""/>
 							</button>
 							<select class="trade__piece choice" id="carts" name="carlist">
                                 <option value="volvo">Москва</option>
@@ -193,7 +193,7 @@
 			 	<div class="user">
 			 		<div class="user__contant">
 			 			<div class="user__photo">
-			 				<img src="/img/menu-person.png" alt=""/>
+			 				<img src="img/menu-person.png" alt=""/>
 			 			</div>
 			 			<div class="user__info">
 			 				<h1 class="user__name">
@@ -219,37 +219,37 @@
 			 		<div class="user__reward">
 			 			<a href="#">Смотреть все награды</a>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-1.svg" alt="">
+		 					<img src="img/menu-1.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-2.svg" alt="">
+		 					<img src="img/menu-2.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-3.svg" alt="">
+		 					<img src="img/menu-3.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-4.svg" alt="">
+		 					<img src="img/menu-4.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-5.svg" alt="">
+		 					<img src="img/menu-5.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-6.svg" alt="">
+		 					<img src="img/menu-6.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-7.svg" alt="">
+		 					<img src="img/menu-7.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-8.svg" alt="">
+		 					<img src="img/menu-8.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-9.svg" alt="">
+		 					<img src="img/menu-9.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-1.svg" alt="">
+		 					<img src="img/menu-1.svg" alt="">
 		 				</div>
 		 				<div class="user__icon">
-		 					<img src="/img/menu-2.svg" alt="">
+		 					<img src="img/menu-2.svg" alt="">
 		 				</div>
 			 			
 			 		</div>
@@ -273,7 +273,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -295,7 +295,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -316,7 +316,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -337,7 +337,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -360,7 +360,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -381,7 +381,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -402,7 +402,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -423,7 +423,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -441,21 +441,21 @@
 			 		</div>
 			 		<div class="offer__down">
 			 			<a href="#" class="offer__link offer__link_place">
-			 				<img src="/img/offer-1.svg" alt=""/>
+			 				<img src="img/offer-1.svg" alt=""/>
 			 				<span>Разместить</span>
 			 			</a>
 			 			<a href="#" class="offer__link offer__link_reting-shou">
-			 				<img src="/img/offer-2.svg" alt=""/>
+			 				<img src="img/offer-2.svg" alt=""/>
 			 				<span>Мой рейтинг</span>
 			 			</a>
 			 			<a herf="#" class="offer__link offer__link_elect">
-			 				<img src="/img/offer-3.svg" alt=""/>
+			 				<img src="img/offer-3.svg" alt=""/>
 			 				<span>Избранное</span>
 			 			</a>
 			 			<div class="offer__page">
-			 				<a href="#" class="prev"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="prev"><img src="img/arrow.svg" alt=""/></a>
 			 				<p>Стр <span>1</span>из 15</p>
-			 				<a href="#" class="next"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="next"><img src="img/arrow.svg" alt=""/></a>
 			 				<input type="text" placeholder="1">
 			 			</div>
 			 		</div>
@@ -483,7 +483,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -505,7 +505,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -527,7 +527,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -549,7 +549,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -573,7 +573,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -595,7 +595,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -617,7 +617,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -639,7 +639,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -658,21 +658,21 @@
 			 		</div>
 			 		<div class="offer__down">
 			 			<a href="#" class="offer__link offer__link_place">
-			 				<img src="/img/offer-1.svg" alt=""/>
+			 				<img src="img/offer-1.svg" alt=""/>
 			 				<span>Разместить</span>
 			 			</a>
 			 			<a href="#" class="offer__link offer__link_reting-shou">
-			 				<img src="/img/offer-2.svg" alt=""/>
+			 				<img src="img/offer-2.svg" alt=""/>
 			 				<span>Мой рейтинг</span>
 			 			</a>
 			 			<a herf="#" class="offer__link offer__link_elect">
-			 				<img src="/img/offer-3.svg" alt=""/>
+			 				<img src="img/offer-3.svg" alt=""/>
 			 				<span>Избранное</span>
 			 			</a>
 			 			<div class="offer__page">
-			 				<a href="#" class="prev"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="prev"><img src="img/arrow.svg" alt=""/></a>
 			 				<p>Стр <span>1</span>из 15</p>
-			 				<a href="#" class="next"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="next"><img src="img/arrow.svg" alt=""/></a>
 			 				<input type="text" placeholder="1">
 			 			</div>
 			 		</div>
@@ -700,7 +700,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -722,7 +722,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -744,7 +744,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -766,7 +766,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -790,7 +790,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -812,7 +812,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -834,7 +834,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -856,7 +856,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -875,21 +875,21 @@
 			 		</div>
 			 		<div class="offer__down">
 			 			<a href="#" class="offer__link offer__link_place">
-			 				<img src="/img/offer-1.svg" alt=""/>
+			 				<img src="img/offer-1.svg" alt=""/>
 			 				<span>Разместить</span>
 			 			</a>
 			 			<a href="#" class="offer__link offer__link_reting-shou">
-			 				<img src="/img/offer-2.svg" alt=""/>
+			 				<img src="img/offer-2.svg" alt=""/>
 			 				<span>Мой рейтинг</span>
 			 			</a>
 			 			<a herf="#" class="offer__link offer__link_elect">
-			 				<img src="/img/offer-3.svg" alt=""/>
+			 				<img src="img/offer-3.svg" alt=""/>
 			 				<span>Избранное</span>
 			 			</a>
 			 			<div class="offer__page">
-			 				<a href="#" class="prev"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="prev"><img src="img/arrow.svg" alt=""/></a>
 			 				<p>Стр <span>1</span>из 15</p>
-			 				<a href="#" class="next"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="next"><img src="img/arrow.svg" alt=""/></a>
 			 				<input type="text" placeholder="1">
 			 			</div>
 			 		</div>
@@ -916,7 +916,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -938,7 +938,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -960,7 +960,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -982,7 +982,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1006,7 +1006,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1028,7 +1028,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1050,7 +1050,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1072,7 +1072,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1091,21 +1091,21 @@
 			 		</div>
 			 		<div class="offer__down">
 			 			<a href="#" class="offer__link offer__link_place">
-			 				<img src="/img/offer-1.svg" alt=""/>
+			 				<img src="img/offer-1.svg" alt=""/>
 			 				<span>Разместить</span>
 			 			</a>
 			 			<a href="#" class="offer__link offer__link_reting-shou">
-			 				<img src="/img/offer-2.svg" alt=""/>
+			 				<img src="img/offer-2.svg" alt=""/>
 			 				<span>Мой рейтинг</span>
 			 			</a>
 			 			<a herf="#" class="offer__link offer__link_elect">
-			 				<img src="/img/offer-3.svg" alt=""/>
+			 				<img src="img/offer-3.svg" alt=""/>
 			 				<span>Избранное</span>
 			 			</a>
 			 			<div class="offer__page">
-			 				<a href="#" class="prev"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="prev"><img src="img/arrow.svg" alt=""/></a>
 			 				<p>Стр <span>1</span>из 15</p>
-			 				<a href="#" class="next"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="next"><img src="img/arrow.svg" alt=""/></a>
 			 				<input type="text" placeholder="1">
 			 			</div>
 			 		</div>
@@ -1133,7 +1133,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1155,7 +1155,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1177,7 +1177,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1199,7 +1199,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1223,7 +1223,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1245,7 +1245,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent "/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent "/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1267,7 +1267,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo offer__photo_absent"/>
+					 				<img src="img/about.png" alt="" class="offer__photo offer__photo_absent"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1289,7 +1289,7 @@
 				 				</div>
 				 				<div class="offer__item">
 					 				<span class="offer__like" id="like"> </span>
-					 				<img src="/img/about.png" alt="" class="offer__photo"/>
+					 				<img src="img/about.png" alt="" class="offer__photo"/>
 					 				<p class="offer__title">
 					 					Секретарской работы минимум! Только в Москве
 					 				</p>
@@ -1308,21 +1308,21 @@
 			 		</div>
 			 		<div class="offer__down">
 			 			<a href="#" class="offer__link offer__link_place">
-			 				<img src="/img/offer-1.svg" alt=""/>
+			 				<img src="img/offer-1.svg" alt=""/>
 			 				<span>Разместить</span>
 			 			</a>
 			 			<a href="#" class="offer__link offer__link_reting-shou">
-			 				<img src="/img/offer-2.svg" alt=""/>
+			 				<img src="img/offer-2.svg" alt=""/>
 			 				<span>Мой рейтинг</span>
 			 			</a>
 			 			<a herf="#" class="offer__link offer__link_elect">
-			 				<img src="/img/offer-3.svg" alt=""/>
+			 				<img src="img/offer-3.svg" alt=""/>
 			 				<span>Избранное</span>
 			 			</a>
 			 			<div class="offer__page">
-			 				<a href="#" class="prev"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="prev"><img src="img/arrow.svg" alt=""/></a>
 			 				<p>Стр <span>1</span>из 15</p>
-			 				<a href="#" class="next"><img src="/img/arrow.svg" alt=""/></a>
+			 				<a href="#" class="next"><img src="img/arrow.svg" alt=""/></a>
 			 				<input type="text" placeholder="1">
 			 			</div>
 			 		</div>
