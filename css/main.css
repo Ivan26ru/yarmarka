@@ -1077,6 +1077,108 @@ img {
 }
 
 
+/*----------------------------------------------User-like---------------------------------*/
+
+.like-user {
+	background: #FFFFFF;
+	box-shadow: 0px 0px 0px 1px #E7E8EC, 0px 1px 1px #DCE1E6;
+	border-radius: 4px;
+	color: #37475E;
+	padding: 7px 14px 15px;
+	margin-bottom: 10px;
+}
+
+.like-user h3:first-child {
+	margin-bottom: 8px;
+	display: block;
+}
+
+.like-user__cont {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 8px;
+}
+
+.user-like__photo {
+	width: 101px;
+	height: 101px;
+	background-color: #EDEEF0;
+	border-radius: 50%;
+	text-align: center;
+	padding-top: 3px;
+}
+
+.user-like__photo img {
+	height: 95px;
+	border-radius: 50%;
+}
+
+.like-user__item {
+	position: relative;
+	text-align: center;
+	color: #3AACFF;
+	justify-content: center;
+}
+
+.user-like__hard {
+	position: absolute;
+	top: 5px;
+	left: 7px;
+}
+
+.user-like__name {
+	font-weight: 700;
+	margin-top: 9px;
+}
+
+.like-user__level {
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.like-user__page {
+	font: 400 12px 'Roboto-Regular', sans-serif;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-top: 18px;
+}
+
+.like-user__page input {
+	width: 67px;
+	height: 18px;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	margin-left: 17.49px;
+	text-align: center;
+}
+
+.like-user__page .prev {
+	margin-right: 5.5px;
+}
+
+.like-user__page .next {
+	margin-left: 5.5px;
+	transform: rotate(180deg);
+	height: 12px;
+}
+
+.offer__photo_full {
+	background-color: #fff;
+	text-align: center;
+	border-radius: 4px 4px 0 0;
+}
+
+.offer__photo_full {
+	width: auto;
+}
+
+.offer__more_full {
+	padding: 5px 10px;
+	color: #3AACFF;
+	font-size: 12px;
+}
+
 /*--------------------------------------------Recall-------------------*/
 
 
