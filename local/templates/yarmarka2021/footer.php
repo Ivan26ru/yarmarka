@@ -1,7 +1,4 @@
-<?php
-if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
-?>
-<!-- Footer -->
+<?php if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)    die(); ?><!-- Footer -->
 <footer class="footer" id="footer">
     <div class="container">
         <div class="footer-contant">
