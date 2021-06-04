@@ -2,15 +2,12 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title><? $APPLICATION->ShowTitle(); ?></title>
     <?php use \Bitrix\Main\Page\Asset; ?>
     <?php Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . "/css/main.css"); ?>
     <?php Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1">'); ?>
-
+    <?php Asset::getInstance()->addString('<meta http-equiv="X-UA-Compatible" content="IE=edge">'); ?>
     <? $APPLICATION->ShowHead(); ?>
-<!--    <link rel="stylesheet" href="--><?//= SITE_TEMPLATE_PATH ?><!--/css/main.css">-->
 </head>
 <body>
 <div id="panel">
