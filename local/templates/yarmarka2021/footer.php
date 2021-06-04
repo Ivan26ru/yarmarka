@@ -204,6 +204,7 @@
         </div>
     </div>
 </footer>
-<script src="<?= SITE_TEMPLATE_PATH ?>/js/main.js"></script>
+<?php use \Bitrix\Main\Page\Asset; ?>
+<?php Asset::getInstance()->addJs(SITE_TEMPLATE_PATH . "/js/main.js"); ?>
 </body>
 </html>
