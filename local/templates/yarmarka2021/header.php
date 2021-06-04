@@ -4,10 +4,11 @@
 <head>
     <title><? $APPLICATION->ShowTitle(); ?></title>
     <?php use \Bitrix\Main\Page\Asset; ?>
+    <? $APPLICATION->ShowHead(); ?>
     <?php Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . "/css/main.css"); ?>
     <?php Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1">'); ?>
     <?php Asset::getInstance()->addString('<meta http-equiv="X-UA-Compatible" content="IE=edge">'); ?>
-    <? $APPLICATION->ShowHead(); ?>
+    <?php Asset::getInstance()->addJs(SITE_TEMPLATE_PATH . "/js/main.js"); ?>
 </head>
 <body>
 <div id="panel">
