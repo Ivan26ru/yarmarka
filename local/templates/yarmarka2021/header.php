@@ -45,11 +45,11 @@
                     Константин
                 </p>
                 <div class="head__photo">
-                    <img src="img/person.png" alt=""/>
+                    <img src="<?= SITE_TEMPLATE_PATH ?>/img/person.png" alt=""/>
                 </div>
                 <span class="head__more">
-						<img src="img/head-more.png" alt="">
-					</span>
+                    <img src="<?= SITE_TEMPLATE_PATH ?>/img/head-more.png" alt="">
+                </span>
             </div>
         </nav>
     </div>
