@@ -666,6 +666,11 @@ button, select {
 	font: 700 18px 'Roboto-Bold', sans-serif;
 }
 
+.offer__title_history {
+	display: block;
+	margin-top: 6px;
+}
+
 .offer__up {
 	display: flex;
 	align-items: center;
@@ -830,6 +835,10 @@ button, select {
 .offer__edit {
 	font: 400 12px 'Roboto-Regular', sans-serif;
 	margin-top: 5px;
+}
+
+.offer-history .offer__edit {
+	justify-content: flex-end;
 }
 
 .offer__edit .edit {
