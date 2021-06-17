@@ -2190,6 +2190,153 @@ button, select {
 	border-radius: 4px;
 }
 
+/*--------------------------------------------------Tuning------------------------------------------*/
+
+.tuning {
+	background: #FFFFFF;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	color: #37475E;
+	font-size: 14px;
+	padding: 16px 16px 19px 15px;
+}
+
+.tuning__item {
+	display: flex;
+	border-bottom: 1px solid #E7E8EC;
+	padding: 10px 0;
+}
+
+.tuning__title {
+	font-weight: 700;
+	width: 254px;
+	padding-top: 5px;
+	display: block;
+	color: #37475E;
+}
+
+.tuning__cont {
+	display: flex;
+	width: 454px;
+	justify-content: space-between;
+	position: relative;
+	padding: 5px 0;
+}
+
+.tuning__inp {
+	height: 31px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	color: #718492;
+	padding: 8px 15px 7px;
+}
+
+.tuning__down {
+	margin-top: 39px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+.tuning__down button {
+	width: 216px;
+	height: 31px;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.tuning__kategory {
+	width: 100%;
+	height: 31px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	color: #37475E;
+	padding: 8px 12px 7px;
+	border: none;
+}
+
+.tuning__save {
+	margin-top: 15px;
+}
+
+.tuning__delet {
+	background-color: #E7E8EC;
+	box-shadow: 0px 0px 0px 1px #e7e8ec, 0px 1px 1px #dce1e6;
+	border-radius: 4px;
+	color: #718492;
+}
+
+.tuning__inp_title {
+	width: 100%;
+}
+
+.tuning__inp_tel {
+	width: 162px;
+}
+
+.tuning__item_pas {
+	padding-top: 39px;
+}
+
+.tuning__inp_pas {
+	width: 137px;
+	padding-right: 30px;
+	position: relative;
+}
+
+.tuning__eye {
+	position: absolute;
+	content: url('../img/eye.svg');
+	top: 13px;
+	left: 110px;
+	width: 14px;
+	height: 14px;
+	cursor: pointer;
+	display: block;
+}
+
+.tuning__info {
+	display: flex;
+}
+
+.tuning__photo {
+	background: url("../img/empty-foon.png") center bottom no-repeat;
+	background-size: 90px 90px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #EDEEF0;
+	margin-right: 14px;
+}
+
+.tuning__photo img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.tuning__info {
+	margin-bottom: 9px;
+}
+
+.tuning__link {
+	display: block;
+	font-size: 12px;
+	color: #3AACFF;
+
+}
+
+.tuning__link_edit {
+	margin-bottom: 5px;
+}
+
+.tuning__info .tuning__title {
+	margin-bottom: 10px;
+}
+
+
 
 	/*--------------------------------------------Footer----------------------------*/
 
