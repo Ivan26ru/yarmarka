@@ -55,3 +55,11 @@
         </nav>
     </div>
 </header>
+
+<div class="test_block">
+    <hr>
+    <li><a href="/">HOME</a></li>
+    <li><a href="/new-page.php">new-page.php</a></li>
+    <li><a href="/newcatalog">newcatalog</a></li>
+    <hr>
+</div>
